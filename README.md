@@ -29,7 +29,7 @@ To use the Weather Forecasting Expert System locally, follow these steps:
 2. Install the required dependencies:
 
    ```shell
-   pip install -r requirements.txt
+   sudo apt-get install python3-tk
    ```
 
 3. Run the application:
